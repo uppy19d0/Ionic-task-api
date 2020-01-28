@@ -10,13 +10,18 @@ const Home: React.FC = () => {
         </IonToolbar>
       </IonHeader>
       <IonContent className="ion-padding">
-        The world is your oyster.
+      Luis Aneuris Tavarez De Jesus
+        <h1>
+          Tarea 2 De Programacion 2</h1>
         <p>
-          If you get lost, the{' '}
-          <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/">
-            docs
-          </a>{' '}
-          will be your guide.
+          <hr/>
+         <b> Matricula:</b>2018-6927
+         <br/>
+         <b> Materia:</b>Programacion 2
+         <br/>
+         <b> Profesor:</b>Kellyn Tejada Belliard
+         <br/>
+         <b> Tecnologia:</b>IONIC
         </p>
       </IonContent>
     </IonPage>
